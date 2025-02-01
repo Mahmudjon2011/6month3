@@ -1,0 +1,25 @@
+body{
+    background-color: orange;
+}
+#clock{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+  padding-top: 300px;
+  font-size: 100px;
+}
+#hours{
+    background-color: black;
+    color: white;
+    padding: 200px;
+}
+#minute{
+    background-color: black;
+    color: white;
+    padding: 200px;
+}
+#second{
+    background-color: black;
+    color: white;
+    padding: 200px;
+}
